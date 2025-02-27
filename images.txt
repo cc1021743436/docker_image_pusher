@@ -1,2 +1,1 @@
-nginx
-rancher/mirrored-coredns-coredns
+rancher/rancher:v2.7.5

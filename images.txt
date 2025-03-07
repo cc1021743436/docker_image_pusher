@@ -1,3 +1,4 @@
 rancher/rancher:v2.7.5
 rancher/rancher-agent:v2.7.5
 rancher/rancher-webhook:v2.7.5
+geodata/gdal:latest
